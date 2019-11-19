@@ -1,0 +1,1 @@
+web: gunicorn adrientremblay.wsgi

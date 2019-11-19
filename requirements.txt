@@ -1,0 +1,7 @@
+django==1.11.23
+git+https://github.com/adrientremblay/mezzanine#egg=mezzanine
+gunicorn
+django-heroku
+dj-database-url
+boto3
+django-storages
