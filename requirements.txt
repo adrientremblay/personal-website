@@ -1,4 +1,4 @@
-django==1.11.23
+django==2.2.24
 git+https://github.com/adrientremblay/mezzanine#egg=mezzanine
 gunicorn
 django-heroku
